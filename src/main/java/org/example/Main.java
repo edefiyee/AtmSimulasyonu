@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //ÖDEV1
+        //Edefiye ERKEK
 //kullanıcıdan şifre aldım ve hatalıysa ekrana yanlış diye yazdırdım
         String correctpasword = "123456";
         double bakiye = 5000.0;
